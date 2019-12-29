@@ -1,5 +1,7 @@
 # hidden-markov-model-tf
 
+This is a _very_ hacky adaptation of @nearform's HMM implementation which adds the option for categorical (discrete) emissions. I will get round to testing this properly at some point.
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/nearform/node-hidden-markov-model-tf.svg)](https://greenkeeper.io/)
 
 **A trainable Hidden Markov Model with Gaussian emissions using TensorFlow.js**
